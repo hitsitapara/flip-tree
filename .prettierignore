@@ -1,0 +1,8 @@
+.bundle
+.gradle
+node_modules
+.vscode
+android
+ios
+keystore
+__test__
